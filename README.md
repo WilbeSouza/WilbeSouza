@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&pause=500&color=60F785&width=size=25&center=true&vCenter=true&width=500&height=40&duration=6000&lines=Olá!+👋;+me+chamo+Wilbe,+fique+a+vontade!;" />
 </h1>
 
-------------------**Em uma jornada por oportunidade**------------------
+--**Em uma jornada por oportunidade**--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilbeSouza&show_icons=true&theme=merko)](https://github.com/WilbeSouza/github-readme-stats)
 
