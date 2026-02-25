@@ -38,6 +38,9 @@ Atualmente busco minha primeira oportunidade profissional na área de desenvolvi
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=WilbeSouza&theme=radical" />
 </p>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
 ---
 
