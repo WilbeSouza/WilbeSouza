@@ -18,7 +18,7 @@
 ## 🚀 Sobre mim
 
 Sou desenvolvedor web formado recentemente, focado em desenvolvimento front-end e back-end.
-Tenho experiência prática com projetos reais, criação de portfólio responsivo, 
+Tenho experiência prática com projetos reais em estudos, criação de portfólio responsivo, 
 controle de versão com Git e publicação via GitHub Pages.
 
 Atualmente busco minha primeira oportunidade profissional na área de desenvolvimento.
