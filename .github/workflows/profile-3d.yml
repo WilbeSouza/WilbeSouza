@@ -20,7 +20,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: WilbeSouza
-          theme: "night-rainbow"
+          with:
+          theme: night-rainbow
           background-color: "#0d1117"
 
       - name: Commit & Push
