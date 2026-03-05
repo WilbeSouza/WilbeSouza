@@ -17,13 +17,15 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor web formado recentemente, focado em desenvolvimento front-end e back-end.
-Tenho experiência prática com projetos reais em estudos, criação de portfólio responsivo, 
-controle de versão com Git e publicação via GitHub Pages.
+S🚀 Desenvolvedor Front-end em Início de Carreira
+Sou um desenvolvedor web recém-formado, apaixonado por transformar designs em código funcional e experiências digitais intuitivas. Atualmente, foco em consolidar minhas habilidades e conquistar minha primeira oportunidade profissional na área.
+💻 No que venho trabalhando:
 
-Atualmente busco minha primeira oportunidade profissional na área de desenvolvimento.
+Projetos Reais (Estudos): Desenvolvimento de aplicações web com foco em usabilidade.
 
----
+Portfólio Responsivo: Criação de interfaces que se adaptam a qualquer tela.
+
+Deploy e Versão: Domínio de Git para controle de versão e GitHub Pages para publicação. 
 
 ## 🛠 Tecnologias
 
