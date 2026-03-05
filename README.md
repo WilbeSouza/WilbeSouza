@@ -17,8 +17,10 @@
 
 ## 🚀 Sobre mim
 
-S🚀 Desenvolvedor Front-end em Início de Carreira
+🚀 Desenvolvedor Front-end em Início de Carreira
+
 Sou um desenvolvedor web recém-formado, apaixonado por transformar designs em código funcional e experiências digitais intuitivas. Atualmente, foco em consolidar minhas habilidades e conquistar minha primeira oportunidade profissional na área.
+
 💻 No que venho trabalhando:
 
 Projetos Reais (Estudos): Desenvolvimento de aplicações web com foco em usabilidade.
